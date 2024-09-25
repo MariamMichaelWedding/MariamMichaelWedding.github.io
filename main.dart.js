@@ -77741,7 +77741,7 @@ n=A.fd("2 0 2 4",a2,a2,n.D0(B.lj,$.bL().lu(13)),a2)
 m=$.bL().geI()
 l=$.bL().geI()
 k=$.bL().gfD()
-k=A.pz(a2,A.an1("assets/logos/img.png",a2),B.y,a2,a2,400*l,a2,new A.aO(0,70*m,0,0),500*k)
+k=A.pz(a2,A.an1("assets/logos/img.png",a2),B.y,a2,a2,500*l,a2,new A.aO(0,90*m,0,0),600*k)
 m=$.bL().geI()
 l=A.fd("INVITE YOU TO JOIN THEIR",a2,a2,A.ah(a4).p2.a,a2)
 j=$.bL().geI()
@@ -77767,14 +77767,14 @@ a0=A.ey(a2,10*$.bL().geI(),a2)
 a=$.bL().gfD()
 a=A.Ze(A.Xv(B.ex,50*$.bL().gfD(),50*a,1))
 b=$.bL().gfD()
-return A.aoq(a2,B.j,new A.JG(B.b2,A.rm(B.d6,A.b([a3,new A.c3(new A.aO(157*s,565*r,0,0),q,a2),new A.c3(new A.aO(167*p,630*o,0,0),n,a2),A.uZ(A.b([k,new A.c3(new A.aO(0,40*m,0,0),l,a2),new A.c3(new A.aO(0,10*j,0,0),i,a2),new A.c3(new A.aO(0,45*h,0,0),g,a2),f,d,e,a1,a0,A.Jc(A.b([a,A.Ze(A.Xv(B.ex,50*$.bL().gfD(),50*b,1))],c),B.b0,B.jc,B.bM),new A.c3(new A.aO(0,70*$.bL().geI(),0,0),new A.hE(B.S,a2,a2,A.fd("It\u2019s Our Great\npleasure to celebrate our wedding\nwith warm hearts around us, \nFamily Beside Us & Shared Love \nBetween Us",a2,a2,A.ah(a4).p2.a.aaM(1.5),B.h6),a2),a2)],c),B.b0,B.ch,B.bM)],c),B.a1,B.cV),a2))}}
+return A.aoq(a2,B.j,new A.JG(B.b2,A.rm(B.d6,A.b([a3,new A.c3(new A.aO(197*s,620*r,0,0),q,a2),new A.c3(new A.aO(207*p,700*o,0,0),n,a2),A.uZ(A.b([k,new A.c3(new A.aO(0,30*m,0,0),l,a2),new A.c3(new A.aO(0,10*j,0,0),i,a2),new A.c3(new A.aO(0,25*h,0,0),g,a2),f,d,e,a1,a0,A.Jc(A.b([a,A.Ze(A.Xv(B.ex,50*$.bL().gfD(),50*b,1))],c),B.b0,B.jc,B.bM),new A.c3(new A.aO(0,40*$.bL().geI(),0,0),new A.hE(B.S,a2,a2,A.fd("It\u2019s Our Great\npleasure to celebrate our wedding\nwith warm hearts around us, \nFamily Beside Us & Shared Love \nBetween Us",a2,a2,A.ah(a4).p2.a.aaM(1.5),B.h6),a2),a2)],c),B.b0,B.ch,B.bM)],c),B.a1,B.cV),a2))}}
 A.ahk.prototype={
 $2(a,b){return B.CT},
 $S:468}
 A.Hu.prototype={
 L(a){return new A.yk(new A.a2s(this),!0,!0,B.Kt,null)}}
 A.a2s.prototype={
-$2(a,b){var s=null,r="CustomFamilyFont",q=A.a8z(s,s,s,A.ki(s,s,B.i2,s,s,s,s,s,"Montserrat",s,s,$.bL().lu(15),s,s,B.aa,s,s,!0,s,s,s,s,s,s,s,s),A.ki(s,s,B.lj,s,s,s,s,s,"Inter",s,s,$.bL().lu(15),s,s,B.aa,s,s,!0,s,s,s,s,s,s,s,s),s,s,s,s,s,s,s,s,s,s),p=A.Vq(8),o=12*$.bL().geI(),n=A.ki(s,s,s,s,s,s,s,s,r,s,s,$.bL().lu(16),s,s,s,s,s,!0,s,s,s,s,s,s,s,s)
+$2(a,b){var s=null,r="CustomFamilyFont",q=A.a8z(s,s,s,A.ki(s,s,B.i2,s,s,s,s,s,"Montserrat",s,s,$.bL().lu(10),s,s,B.aa,s,s,!0,s,s,s,s,s,s,s,s),A.ki(s,s,B.lj,s,s,s,s,s,"Inter",s,s,$.bL().lu(15),s,s,B.aa,s,s,!0,s,s,s,s,s,s,s,s),s,s,s,s,s,s,s,s,s,s),p=A.Vq(8),o=12*$.bL().geI(),n=A.ki(s,s,s,s,s,s,s,s,r,s,s,$.bL().lu(16),s,s,s,s,s,!0,s,s,s,s,s,s,s,s)
 return new A.ln(this.a.c,A.zk(s,B.A0,new A.pP(A.awB(B.i2,new A.aO(0,o,0,o),new A.cl(A.Vq(16),B.n),n)),r,new A.wo(!0,B.j,new A.iK(4,p,B.yx)),B.i2,q,s),!1,s)},
 $S:469}
 A.a3o.prototype={}
